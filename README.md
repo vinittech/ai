@@ -38,13 +38,6 @@ The folder contains the following sub-directories:
 
 **<p align="center">Map-Merging after few hundred time steps </p>**
 
-# Tasks
-
-![](./figures/score.png)
-
-**<p align="center">Score for 100 Simulation steps</p>**
-
-
 
 
 
