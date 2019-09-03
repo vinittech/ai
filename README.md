@@ -30,13 +30,13 @@ The folder contains the following sub-directories:
 
 ## Results
 
-# Map-Merging
+### Map-Merging
 
 20*20 Grid             |  40*40 Grid 
 :-------------------------:|:-------------------------:
 ![](./figures/small_map.png)  |  ![](./figures/big_map.png)
 
-**<p align="center">Map-Merging after few hundred time steps </p>**
+**<p align="center">Map-Merging after few hundred simulation steps </p>**
 
 
 
