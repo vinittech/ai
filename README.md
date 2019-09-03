@@ -22,7 +22,7 @@ The folder contains the following sub-directories:
 
 ## Strategy
 
-![](./images/cover-2.jpg)
+![](./figures/behaviours_sensors.png)
 
 **<p align="center">Behaviours and Sensors</p>**
 
