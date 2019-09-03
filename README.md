@@ -22,8 +22,30 @@ The folder contains the following sub-directories:
 
 ## Strategy
 
-![](./figures/behaviours_sensors.png)
+![](./figures/strategy.png)
 
 **<p align="center">Behaviours and Sensors</p>**
+
+----------------------
+
+## Results
+
+# Map-Merging
+
+20*20 Grid             |  40*40 Grid 
+:-------------------------:|:-------------------------:
+![](./figures/small_map.png)  |  ![](./figures/big_map.png)
+
+**<p align="center">Map-Merging after few hundred time steps </p>**
+
+# Tasks
+
+![](./figures/score.png)
+
+**<p align="center">Score for 100 Simulation steps</p>**
+
+
+
+
 
 
